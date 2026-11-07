@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/splunk.itsi/commit/09107efc6e2de40d99007de5732d96e0a3a44613",
       "git:hexsha": "09107efc6e2de40d99007de5732d96e0a3a44613",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/splunk.itsi/commit/0ac690b445ef108fb8fa162da755087fbed5a957",
